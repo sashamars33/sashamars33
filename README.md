@@ -1,7 +1,7 @@
 <h1 align="center">Hello ✌, my name is is Sasha Marshall</h1>
 <h3 align="center">An avid problem solver from the United States.</h3>
 
-- 🔭 I’m currently working on **Palette Pal** and **Sticky-Notes**
+- 🔭 I’m currently working on **The Plant Spot** and **Sticky-Notes**
 
 - 👨‍💻 All of my projects are available at [https://sashamarshalldesigns.netlify.app/](https://sashamarshalldesigns.netlify.app/)
 
