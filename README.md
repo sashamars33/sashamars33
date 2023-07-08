@@ -1,9 +1,9 @@
 <h1 align="center">Hello ✌, my name is is Sasha Marshall</h1>
 <h3 align="center">An avid problem solver from the United States.</h3>
 
-- 🔭 I’m currently working on **The Plant Spot** and **Sticky-Notes**
+- 🔭 I’m currently working on **Bay Area Restaurant Services** and **Sticky-Notes**
 
-- 👨‍💻 All of my projects are available at [https://sashamarshalldesigns.netlify.app/](https://sashamarshalldesigns.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sashamarshalldesigns.netlify.app/](https://sashamarshall.dev/)
 
 - 📫 How to reach me **sashamarshalldesigns@gmail.com**
 
