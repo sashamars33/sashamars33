@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sashamarshalldesigns.netlify.app/](https://sashamarshall.dev/)
 
-- 📫 How to reach me **sashamarshalldesigns@gmail.com**
+- 📫 How to reach me **sashamarshall.dev@gmail.com**
 
 - ⚡ Fun fact **I am also a digital illustrator https://sashamarshallillustrations.netlify.app/**
 
